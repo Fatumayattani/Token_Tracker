@@ -9,3 +9,9 @@
 - 📈 **Historical charts** for market trends and analysis.  
 - 💰 **Portfolio tracking** to monitor your investments.  
 - 🌐 **Global market insights** across exchanges.
+
+---
+## Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **API:** CoinGecko / CoinMarketCap API  
+- **Hosting:** Netlify 
