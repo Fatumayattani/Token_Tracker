@@ -7,3 +7,8 @@ a{
   text-decoration: none;
   color: inherit;
 }
+.app{
+  min-height: 100vh;
+  color: white;
+  background: linear-gradient(#0b004e, #1d152f, #002834);
+}
