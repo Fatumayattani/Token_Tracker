@@ -13,5 +13,5 @@
 ---
 ## Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
-- **API:** CoinGecko / CoinMarketCap API  
+- **API:** CoinGecko
 - **Hosting:** Netlify 
