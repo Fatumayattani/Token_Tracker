@@ -1,12 +1,12 @@
 import React from 'react'
 import './Navbar.css'
-import tlogo from '../../assets/tlogo.png'
+import t2logo from '../../assets/t2logo.png'
 import arrow_icon from '../../assets/arrow_icon.png'
 
 const Navbar = () => {
   return (
     <div className='navbar'>
-        <img src={tlogo} alt="" />
+        <img src={t2logo} alt="" />
         <ul>
             <li>Home</li>
             <li>Features</li>
