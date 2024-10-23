@@ -1,11 +1,11 @@
 import React from 'react'
 import '.Navbar.css'
-import logo from '../../assets/ttlogo.png'
+import ttlogo from '../../assets/ttlogo.png'
 
 const Navbar = () => {
   return (
     <div className='navbar'>
-        <img src={logo} alt="" />
+        <img src={ttlogo} alt="" />
       
     </div>
   )
