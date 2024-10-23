@@ -1,6 +1,7 @@
 import React from 'react'
 import '.Navbar.css'
 import ttlogo from '../../assets/ttlogo.png'
+import arrow_icon from '../../assets/arrow_icon.png'
 
 const Navbar = () => {
   return (
