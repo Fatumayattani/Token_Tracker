@@ -19,7 +19,7 @@ const Navbar = () => {
                 <option value="usd">EUR</option>
                 <option value="usd">KES</option>
             </select>
-            <button>Sign Up <img src="" alt="" /></button>
+            <button>Sign Up <img src={arrow_icon} alt="" /></button>
         </div>
       
     </div>
