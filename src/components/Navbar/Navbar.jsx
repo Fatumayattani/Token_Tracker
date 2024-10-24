@@ -6,7 +6,7 @@ import arrow_icon from '../../assets/arrow_icon.png'
 const Navbar = () => {
   return (
     <div className='navbar'>
-        <img src={t2logo} alt="" />
+        <img src={t2logo} alt="" className='logo' />
         <ul>
             <li>Home</li>
             <li>Features</li>
