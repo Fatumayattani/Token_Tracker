@@ -23,7 +23,7 @@ const CoinContextProvider = (props)=> {
     }
     useEffect(()=>{
     fetchAllCoin();
-    },[])
+    },[currency])
 
 
     const contextValue = {}
