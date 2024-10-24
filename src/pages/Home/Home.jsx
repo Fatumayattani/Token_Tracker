@@ -9,6 +9,7 @@ const Home = () => {
         <p>Welcome to the World's largest cryptocurrency marletplace. Sign up to explore more about cryptos.</p>
         <form>
           <input type="text" placeholder='Search crypto..' />
+          <button type="submit">Search</button>
         </form>
       </div>
       
