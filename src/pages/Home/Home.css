@@ -14,3 +14,8 @@
 .hero h1{
     font-size: max(4vw,36px);
 }
+.hero p{
+    width: 75%;
+    color: #e3e3e3;
+    line-height: 1.5;
+}
