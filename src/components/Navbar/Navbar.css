@@ -33,3 +33,12 @@
     background-color: #09005c;
     color: white;
 }
+.navbar button{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 25px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 500;
+}
