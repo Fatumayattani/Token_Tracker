@@ -1,3 +1,13 @@
+import { createContext } from 'react';
 
 
-const CoinContext = createContext
+export const CoinContext = createContext();
+
+const CoinContextProvider = (props)=> {
+    return (
+        <CoinContext.Provider>
+            {props.children}
+        </CoinContext.Provider>
+    )
+
+}
