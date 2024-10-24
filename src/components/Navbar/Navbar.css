@@ -22,3 +22,10 @@
     align-items: center;
     gap: max(1vw,12px);
 }
+.navbar select{
+    padding: 5px 8px;
+    border-radius: 6px;
+    border: 2px solid white;
+    background: transparent;
+    color: white;
+}
