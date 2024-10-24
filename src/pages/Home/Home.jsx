@@ -12,6 +12,16 @@ const Home = () => {
           <button type="submit">Search</button>
         </form>
       </div>
+<div className='crypto-table'>
+  <div className="table-layout">
+    <p>#</p>
+    <p>Coins</p>
+    <p>24H Change</p>
+    <p>Market Cap</p>
+  </div>
+
+</div>
+
       
     </div>
   )
