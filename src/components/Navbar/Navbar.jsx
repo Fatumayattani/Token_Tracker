@@ -16,8 +16,8 @@ const Navbar = () => {
         <div className="nav-right">
             <select>
                 <option value="usd">USD</option>
-                <option value="usd">EUR</option>
-                <option value="usd">KES</option>
+                <option value="eur">EUR</option>
+                <option value="inr">KES</option>
             </select>
             <button>Sign Up <img src={arrow_icon} alt="" /></button>
         </div>
