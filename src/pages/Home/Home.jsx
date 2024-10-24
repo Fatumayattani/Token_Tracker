@@ -28,6 +28,9 @@ const Home = () => {
     <p className={{textAlign:"center"}}>24H Change</p>
     <p className='market-cap'>Market Cap</p>
   </div>
+  {
+    displayCoin.slice(0,10).map((item,index)=>())
+  }
 
 </div>
 
