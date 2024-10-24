@@ -6,6 +6,7 @@ const Home = () => {
     <div className='home'>
       <div className="hero">
         <h1>Largest <br/> Crypto Marketplace</h1>
+        <p>Welcome to the World's largest cryptocurrency marletplace. Sign up to explore more about cryptos.</p>
       </div>
       
     </div>
