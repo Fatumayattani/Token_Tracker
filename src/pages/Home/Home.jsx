@@ -16,6 +16,7 @@ const Home = () => {
   <div className="table-layout">
     <p>#</p>
     <p>Coins</p>
+    <p>price</p>
     <p>24H Change</p>
     <p>Market Cap</p>
   </div>
