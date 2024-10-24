@@ -29,7 +29,12 @@ const Home = () => {
     <p className='market-cap'>Market Cap</p>
   </div>
   {
-    displayCoin.slice(0,10).map((item,index)=>())
+    displayCoin.slice(0,10).map((item,index)=>(
+      <div className="table-layout" key={index}>
+        <p>item</p>
+
+      </div>
+    ))
   }
 
 </div>
