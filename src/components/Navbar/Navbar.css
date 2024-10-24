@@ -46,3 +46,6 @@
     border: none;
     cursor: pointer;
 }
+.navbar button img{
+    width: 13px;
+}
